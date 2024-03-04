@@ -1,5 +1,5 @@
-## Stock_prediction
-# Transformer Model for Time Series Prediction
+# Stock prediction
+### Transformer Model for Time Series Prediction
 
 ## Overview
 This repository contains a PyTorch implementation of a Transformer-based model for time series prediction. 
